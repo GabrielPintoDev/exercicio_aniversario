@@ -1,0 +1,45 @@
+@use "../variables";
+
+.infos-bar {
+    padding: 16px 24px;
+    background-color: variables.$corTexto;
+    display: flex;
+    justify-content: space-between;
+
+    &__infos {
+        display: flex;
+        gap: 40px;
+
+        &__item {
+            display: flex;
+            flex-direction: column;
+            font-size: 14px;
+            color: variables.$corTextoSecundario;
+
+            b {
+                margin-bottom: 4px;
+                font-size: 18px;
+                color: variables.$corTextoSecundario;
+                display: variables.$corTextoSecundario;
+            }
+        }
+    }
+
+    @media (max-width: 640px) {
+        display: block;
+
+        .infos-bar__infos {
+            display: block;
+
+            .infos-bar__infos__item {
+                margin-bottom: 24px;
+            }
+        }
+    }
+
+    @media (max-width: 1024px) {
+        &__infos {
+            gap: 16px;
+        }
+    }
+}

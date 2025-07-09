@@ -160,7 +160,7 @@
       });
     }
   }
-})({"7dMPt":[function(require,module,exports,__globalThis) {
+})({"6eNZS":[function(require,module,exports,__globalThis) {
 var global = arguments[3];
 var HMR_HOST = null;
 var HMR_PORT = null;
@@ -667,7 +667,27 @@ function hmrAccept(bundle /*: ParcelRequire */ , id /*: string */ ) {
 }
 
 },{}],"3cYfC":[function(require,module,exports,__globalThis) {
+AOS.init();
+const dataDoEvento = new Date("Apr 4, 2026 22:00:00");
+const timeStampDoEvento = dataDoEvento.getTime();
+const contaAsHoras = setInterval(function() {
+    const agora = new Date();
+    const timeStampAtual = agora.getTime();
+    const distanciaAteOEvento = timeStampDoEvento - timeStampAtual;
+    const diaEmMs = 86400000;
+    const horaEmMS = 3600000;
+    const minutoEmMs = 60000;
+    const diasAteOEvento = Math.floor(distanciaAteOEvento / diaEmMs);
+    const horasAteOEvento = Math.floor(distanciaAteOEvento % diaEmMs / horaEmMS);
+    const minutosAteOEvento = Math.floor(distanciaAteOEvento % horaEmMS / minutoEmMs);
+    const segundosAteOEvento = Math.floor(distanciaAteOEvento % minutoEmMs / 1000);
+    document.getElementById("contador").innerHTML = `${diasAteOEvento}d ${horasAteOEvento}h ${minutosAteOEvento}m ${segundosAteOEvento}s`;
+    if (distanciaAteOEvento < 0) {
+        clearInterval(contaAsHoras);
+        document.getElementById("contador").innerHTML = "Evento expirado";
+    }
+}, 1000);
 
-},{}]},["7dMPt","3cYfC"], "3cYfC", "parcelRequire5c3f", {})
+},{}]},["6eNZS","3cYfC"], "3cYfC", "parcelRequire5c3f", {})
 
 //# sourceMappingURL=main.js.map
