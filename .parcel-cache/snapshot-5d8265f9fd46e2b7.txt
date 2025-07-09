@@ -23,7 +23,7 @@
 94C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\chrome-trace-event\LICENSE.txt133965690751229186 0
 117C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\@swc\helpers\_\_interop_require_wildcard\package.json133965690744228334 0
 68C:\Users\gabri\Desktop\curso\exercicio_aniversario\package-lock.json133965697389730840 0
-77C:\Users\gabri\Desktop\curso\exercicio_aniversario\src\styles\_variables.scss133965716978857754 0
+77C:\Users\gabri\Desktop\curso\exercicio_aniversario\src\styles\_variables.scss133965738566464494 0
 109C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\lmdb\node_modules\node-addon-api\node_api.gyp133965690753505880 0
 61C:\Users\gabri\Desktop\curso\exercicio_aniversario\.gitignore133965690756394837 0
 95C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\caniuse-lite\data\regions\KR.js133965690750352478 0
@@ -54,7 +54,7 @@
 77C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\source-map-js133965690755728127 1
 112C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest.c133965690753152508 0
 102C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\@swc\helpers\_\_ts_values\package.json133965690744451052 0
-55C:\Users\gabri\Desktop\curso\exercicio_aniversario\dist133965733277582356 1
+55C:\Users\gabri\Desktop\curso\exercicio_aniversario\dist133965739089375711 1
 116C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\lmdb\node_modules\node-addon-api\tools\check-napi.js133965690753550996 0
 107C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\@parcel\optimizer-html\lib\HTMLOptimizer.js133965690734955650 0
 70C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\base-x133965690746301481 1
@@ -85,7 +85,7 @@
 102C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\@parcel\events\test\Disposable.test.js133965690734510333 0
 87C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\braces\lib\stringify.js133965690746353436 0
 83C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\is-number\README.md133965690751950452 0
-65C:\Users\gabri\Desktop\curso\exercicio_aniversario\src\index.html133965732485617559 0
+65C:\Users\gabri\Desktop\curso\exercicio_aniversario\src\index.html133965739083331480 0
 80C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\lmdb\SECURITY.md133965690752784873 0
 87C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\@parcel\fs\lib\index.js133965690734614853 0
 95C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\caniuse-lite\data\regions\MV.js133965690750505996 0
@@ -99,7 +99,7 @@
 83C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\safe-buffer\LICENSE133965690754857262 0
 116C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\react-refresh\cjs\react-refresh-babel.development.js133965690754728210 0
 94C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\@parcel\transformer-js\LICENSE133965690739618287 0
-73C:\Users\gabri\Desktop\curso\exercicio_aniversario\src\styles\_event.scss133965734116399808 0
+73C:\Users\gabri\Desktop\curso\exercicio_aniversario\src\styles\_event.scss133965737845479492 0
 92C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\@swc\helpers\_\_to_primitive133965690744400593 1
 107C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\caniuse-lite\data\features\object-values.js133965690748673648 0
 101C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\@swc\helpers\src\_async_generator.mjs133965690745693151 0
@@ -120,7 +120,7 @@
 88C:\Users\gabri\Desktop\curso\exercicio_aniversario\src\styles\components\_infos-bar.scss133965715003840440 0
 95C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\caniuse-lite\data\regions\NU.js133965690750566705 0
 87C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\semver\classes\range.js133965690755356884 0
-70C:\Users\gabri\Desktop\curso\exercicio_aniversario\src\scripts\main.js133965686060557370 0
+70C:\Users\gabri\Desktop\curso\exercicio_aniversario\src\scripts\main.js133965739017191647 0
 99C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\caniuse-lite\data\features\const.js133965690746783782 0
 83C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\chokidar\index.d.ts133965690751172939 0
 91C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\lightningcss-win32-x64-msvc133965690752617793 1
@@ -385,7 +385,7 @@
 96C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\.bin\download-lmdb-prebuilds.ps1133965690732153289 0
 97C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\node-addon-api\node_addon_api.gyp133965690754228289 0
 81C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\is-number\LICENSE133965690751950452 0
-93C:\Users\gabri\Desktop\curso\exercicio_aniversario\dist\exercicio_aniversario.59712999.js.map133965733271865146 0
+93C:\Users\gabri\Desktop\curso\exercicio_aniversario\dist\exercicio_aniversario.59712999.js.map133965739089365708 0
 79C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\sass\types\util133965690755283981 1
 124C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\caniuse-lite\data\features\keyboardevent-getmodifierstate.js133965690748397744 0
 84C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\json5\dist\index.mjs133965690752007043 0
@@ -578,7 +578,7 @@
 98C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\@parcel\utils\src\shared-buffer.js133965690740512676 0
 102C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\type-fest\source\conditional-pick.d.ts133965690756003709 0
 121C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\caniuse-lite\data\features\css-container-queries-style.js133965690746951118 0
-81C:\Users\gabri\Desktop\curso\exercicio_aniversario\dist\aniversario.5fc84ef5.jpeg133965733277528926 0
+81C:\Users\gabri\Desktop\curso\exercicio_aniversario\dist\aniversario.5fc84ef5.jpeg133965739089341272 0
 88C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\@swc\helpers\_\_decorate133965690744152387 1
 117C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\react-refresh\cjs\react-refresh-runtime.production.js133965690754753336 0
 87C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\node-addon-api\index.js133965690754172420 0
@@ -1197,7 +1197,7 @@
 111C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\midl.h133965690753152508 0
 95C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\caniuse-lite\data\regions\GB.js133965690750117083 0
 78C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\parcel\LICENSE133965690754506308 0
-75C:\Users\gabri\Desktop\curso\exercicio_aniversario\dist\scripts\main.js.map133965733271865146 0
+75C:\Users\gabri\Desktop\curso\exercicio_aniversario\dist\scripts\main.js.map133965739089365708 0
 88C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\escalade\sync\index.d.ts133965690751728334 0
 95C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\caniuse-lite\data\regions\NC.js133965690750559355 0
 80C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\parcel\README.md133965690754506308 0
@@ -1706,7 +1706,7 @@
 113C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\caniuse-lite\data\features\css-conic-gradients.js133965690746951118 0
 95C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\caniuse-lite\data\regions\SB.js133965690750728981 0
 87C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\@swc\helpers\_\_type_of133965690744451052 1
-63C:\Users\gabri\Desktop\curso\exercicio_aniversario\dist\scripts133965733271865146 1
+63C:\Users\gabri\Desktop\curso\exercicio_aniversario\dist\scripts133965739089375711 1
 80C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\is-glob\index.js133965690751950452 0
 84C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\is-glob\package.json133965690751950452 0
 87C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\commander\lib\option.js133965690751395450 0
@@ -2089,7 +2089,7 @@
 95C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\caniuse-lite\data\regions\PY.js133965690750673760 0
 95C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\caniuse-lite\data\regions\QA.js133965690750673760 0
 95C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\caniuse-lite\data\regions\RE.js133965690750673760 0
-71C:\Users\gabri\Desktop\curso\exercicio_aniversario\dist\scripts\main.js133965733271348615 0
+71C:\Users\gabri\Desktop\curso\exercicio_aniversario\dist\scripts\main.js133965739089341272 0
 109C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\@swc\helpers\cjs\_interop_require_default.cjs133965690744783738 0
 95C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\caniuse-lite\data\regions\RO.js133965690750673760 0
 121C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\@parcel\core\test\fixtures\duplicate-targets\package.json133965690733954891 0
@@ -3529,7 +3529,7 @@
 97C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\@parcel\error-overlay\src\effects133965690734365114 1
 114C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\@parcel\error-overlay\src\listenToRuntimeErrors.js133965690734401362 0
 99C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\@parcel\error-overlay\src\styles.js133965690734401362 0
-89C:\Users\gabri\Desktop\curso\exercicio_aniversario\dist\exercicio_aniversario.59712999.js133965733271745024 0
+89C:\Users\gabri\Desktop\curso\exercicio_aniversario\dist\exercicio_aniversario.59712999.js133965739089329961 0
 95C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\@parcel\error-overlay\src\utils133965690734448193 1
 111C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\@parcel\error-overlay\src\utils\getPrettyURL.js133965690734401362 0
 113C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\@parcel\error-overlay\src\utils\getStackFrames.js133965690734401362 0
@@ -3707,9 +3707,9 @@
 79C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\.bin\parcel.ps1133965690732253655 0
 79C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\.bin\semver.cmd133965690732283827 0
 95C:\Users\gabri\Desktop\curso\exercicio_aniversario\node_modules\.bin\update-browserslist-db.ps1133965690732283827 0
-89C:\Users\gabri\Desktop\curso\exercicio_aniversario\dist\exercicio_aniversario.f75de5e1.js133965733271348615 0
-93C:\Users\gabri\Desktop\curso\exercicio_aniversario\dist\exercicio_aniversario.f75de5e1.js.map133965733271865146 0
-66C:\Users\gabri\Desktop\curso\exercicio_aniversario\dist\index.html133965733271735030 0
-62C:\Users\gabri\Desktop\curso\exercicio_aniversario\dist\styles133965733271865146 1
-71C:\Users\gabri\Desktop\curso\exercicio_aniversario\dist\styles\main.css133965733271348615 0
-75C:\Users\gabri\Desktop\curso\exercicio_aniversario\dist\styles\main.css.map133965733271865146 0
+89C:\Users\gabri\Desktop\curso\exercicio_aniversario\dist\exercicio_aniversario.f75de5e1.js133965739089320104 0
+93C:\Users\gabri\Desktop\curso\exercicio_aniversario\dist\exercicio_aniversario.f75de5e1.js.map133965739089355728 0
+66C:\Users\gabri\Desktop\curso\exercicio_aniversario\dist\index.html133965739089305044 0
+62C:\Users\gabri\Desktop\curso\exercicio_aniversario\dist\styles133965739089365708 1
+71C:\Users\gabri\Desktop\curso\exercicio_aniversario\dist\styles\main.css133965739089320104 0
+75C:\Users\gabri\Desktop\curso\exercicio_aniversario\dist\styles\main.css.map133965739089365708 0
