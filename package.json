@@ -2,7 +2,6 @@
   "name": "exercicio_aniversario",
   "version": "1.0.0",
   "scripts": {
-    "dev:watch": "nodemon --watch src --ext html,scss,js --exec \"npm run dev\"",
     "build": "npx parcel build src/index.html",
     "dev": "parcel src/index.html src/styles/main.scss src/scripts/main.js",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +12,6 @@
   "description": "",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.8.0",
-    "nodemon": "^3.1.10",
     "parcel": "^2.8.0",
     "sharp": "^0.31.1"
   }
